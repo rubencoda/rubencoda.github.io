@@ -43,7 +43,8 @@
 /* Banner */
 .banner {
 
-    margin-top: 150px;
+    margin-top: 155px;
+    margin-bottom: 150px;
 
 }
 
@@ -78,5 +79,13 @@
     border-radius: 0;
     
 }
+
+.bagian {
+
+    font-weight: bold;
+    font-size: 32px;
+
+}
+
 
 
