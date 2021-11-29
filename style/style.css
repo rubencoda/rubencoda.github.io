@@ -1,6 +1,12 @@
 * {
     font-family: 'Poppins', sans-serif;
-    background-color: #E5E5E5 !important;
+    
+}
+
+body {
+
+    background: #E5E5E5;
+
 }
 
 /* Navbar */
@@ -11,6 +17,8 @@
     padding-bottom: 15px;
 
 }
+
+
 
 .navbar-brand {
 
@@ -44,7 +52,8 @@
 .banner {
 
     margin-top: 155px;
-    margin-bottom: 150px;
+    margin-bottom: 200px;
+    background: #E5E5E5;
 
 }
 
@@ -72,13 +81,14 @@
 
 }
 
-.btn-outline-dark {
+.banner .btn-dark {
 
-    color: #0D0D0D !important;
-    border-color: #0D0D0D;
-    border-radius: 0;
-    
+    background: #0D0D0D;
+    color: #E5E5E5;
+    border-radius: 0%;
+
 }
+
 
 .bagian {
 
