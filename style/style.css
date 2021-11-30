@@ -97,7 +97,14 @@ body {
 }
 
 /* Skills */
-.skills .line {
+.skills {
+
+    margin-bottom: 160px;
+
+
+}
+
+.line {
 
     margin-top: -15px;
 
@@ -110,4 +117,19 @@ body {
 
 }
 
+/* Contact */
+
+.contact .isi-contact {
+
+    margin-top: 20px;
+
+}
+
+.contact a {
+
+    text-decoration: none;
+    color: #0D0D0D;
+    padding-left: 8px;
+
+}
 
