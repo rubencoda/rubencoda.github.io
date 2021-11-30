@@ -52,7 +52,7 @@ body {
 .banner {
 
     margin-top: 155px;
-    margin-bottom: 150px;
+    margin-bottom: 100px;
     background: #E5E5E5;
 
 }
@@ -99,7 +99,7 @@ body {
 /* Skills */
 .skills {
 
-    margin-bottom: 160px;
+    margin-bottom: 100px;
 
 
 }
@@ -143,6 +143,18 @@ body {
 
 /* Desktop */
 @media (min-width: 576px) { 
+
+    .banner {
+
+    margin-bottom: 150px;
+
+    }
+    
+    .skills {
+
+    margin-bottom: 160px;
+
+    }
 
 
     .skills .row img {
