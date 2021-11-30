@@ -104,6 +104,13 @@ body {
 
 }
 
+.skills .row img {
+
+        width: 250px;
+        height: 135px;
+
+    }
+
 .line {
 
     margin-top: -15px;
@@ -129,7 +136,26 @@ body {
 
     text-decoration: none;
     color: #0D0D0D;
+    font-size: 16px;
     padding-left: 8px;
 
 }
+
+/* Desktop */
+@media (min-width: 576px) { 
+
+
+    .skills .row img {
+
+        width: 500px;
+        height: 250px;
+
+    }
+
+
+
+
+
+
+ }
 
