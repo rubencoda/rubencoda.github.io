@@ -138,12 +138,19 @@ body {
 
 }
 
+.contact .isi-contact img {
+
+    width: 28px;
+    height: 28px;
+
+}
+
 .contact a {
 
     text-decoration: none;
     color: #0D0D0D;
     font-size: 16px;
-    padding-left: 8px;
+    padding-left: 5px;
 
 }
 
